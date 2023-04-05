@@ -1,3 +1,3 @@
 a=50
 b=60
-print("Addition ",a+b)
+print("Addition of two number ",a+b)
